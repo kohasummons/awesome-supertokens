@@ -57,6 +57,7 @@ The most **up to date** list of SuperTokens docs, talks, tools, examples & artic
 ## Tools
 
 <!-- - [SuperTokens DevTools](link) -->
+- [NestJS + GraphQL + Supertokens](https://github.com/BE-CH/nestjs-graphql-supertokens) - NestJS with GraphQL routes together with Supertokens.
 
 ## Articles
 
